@@ -1,0 +1,6 @@
+responses
+
+
+an advantage to a text editor is that it can tell you when you mess up your code.
+
+a relative URL is smaller and more convenient while a absolute URL contains more info
